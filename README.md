@@ -16,3 +16,4 @@ I love doing things outside of class. I am passionate in staying 🎨 creative �
 - Drawing ✏️
 - Photography 📷
 - Puppies! 🐶 I have dogs and I think they're the best out of all pets, though I still love animals.
+- Music! 🎵 I love listening to music and podcasts.
