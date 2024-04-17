@@ -1,5 +1,5 @@
 # 👋 Knerup Pastor (he/him) 
-I'm a Interactive Design & Technology **student** learning at Saskatchewan Polytechnic. I am currently learning UX/UI. Though I am not the best at coding, I have very much enjoyed creating the webpages that we have made in class. I hope to become a future graphic designer and use what I know about coding to make really cool websites. 
+I'm a Interactive Design & Technology **student** learning at Saskatchewan Polytechnic. I am currently learning UI/UX. Though I am not the best at coding, I have enjoyed creating webpages in class. I hope to become a graphic designer and bring my knowledge of technology to my work. 
 
 - 💼 [linkedin.com/in/knerup-pastor](https://www.linkedin.com/in/knerup-pastor/)
 - 🌐 [knerup.com](https://knerup.com/)
@@ -7,7 +7,7 @@ I'm a Interactive Design & Technology **student** learning at Saskatchewan Polyt
 ## 🛠️Languages, Tools 
 
 - 🧮 JavaScript, HTML, CSS
-- 💻 VSCode, Github, Adobe CC, Figma
+- 💻 VSCode, Github, Adobe CC, Figma, Photoshop, Illustrator, Premiere Pro, Audition, Zoom
 
 
 ## 🤩 Hobbies and Passions!
